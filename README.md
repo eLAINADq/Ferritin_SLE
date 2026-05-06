@@ -1,2 +1,2 @@
 # Ferritin_SLE
-scRNA-seq, PPI
+scRNA-seq,proteomics
